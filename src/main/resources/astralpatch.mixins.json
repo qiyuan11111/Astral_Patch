@@ -1,0 +1,10 @@
+{
+  "compatibilityLevel": "JAVA_8",
+  "package": "com.astral.patch.mixin",
+  "refmap": "refmap.astralpatch.json",
+  "mixins": [],
+  "client": [
+    "BlockCompatibleStarlightInfuser"
+  ],
+  "server": []
+}

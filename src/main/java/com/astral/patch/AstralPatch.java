@@ -9,7 +9,7 @@ import org.apache.logging.log4j.Logger;
 
 @Mod(modid = AstralPatch.MOD_ID)
 public class AstralPatch {
-    public static final String MOD_ID = "examplemod";
+    public static final String MOD_ID = "astralpatch";
 
 
     public static final Logger LOGGER = LogManager.getLogger();
